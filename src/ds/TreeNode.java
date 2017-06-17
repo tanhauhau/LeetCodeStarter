@@ -1,4 +1,4 @@
-package com.lihau.ds;
+package ds;
 
 /**
  * Created by lhtan on 17/6/17.

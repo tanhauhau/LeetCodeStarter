@@ -1,7 +1,5 @@
-package com.lihau;
-
-import com.lihau.ds.ListNode;
-import com.lihau.ds.TreeNode;
+import ds.ListNode;
+import ds.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
